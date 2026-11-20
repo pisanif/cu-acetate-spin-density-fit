@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the article below."
 type: software
 title: "Cu-acetate spin-density fit"
-abstract: >-
+abstract: 
   MATLAB code to fit a real-space spin-density model (anisotropic Gaussians)
   to 3D inelastic neutron scattering data of the triplet excitation in
   copper acetate.
