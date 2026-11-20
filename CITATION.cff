@@ -2,22 +2,74 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the article below."
 type: software
 title: "Cu-acetate spin-density fit"
-abstract: 
+abstract: >-
   MATLAB code to fit a real-space spin-density model (anisotropic Gaussians)
   to 3D inelastic neutron scattering data of the triplet excitation in
   copper acetate.
 authors:
   - family-names: Pisani
     given-names: Federico
-    affiliation: "Laboratory for quantum magnetism, EPFL"
+    affiliation: "EPFL Institute of Physics, Laboratory for Quantum Magnetism, Lausanne, Switzerland"
     orcid: "https://orcid.org/0009-0002-2837-0102" 
 version: "1.0.0"
-date-released: "2026-11-20"   
+date-released: "2026-11-20"  
 license: MIT
-repository-code: "https://github.com/pisanif/cu-acetate-spin-density-fit"  
+repository-code: "https://github.com/pisanif/cu-acetate-spin-density-fit" 
 keywords:
   - inelastic neutron scattering
   - spin density
   - copper acetate
   - quantum magnetism
+preferred-citation:
+  type: article
+  title: "Probing the real-space density of spin-entangled electrons"
+  authors:
+    - family-names: Pisani
+      given-names: Federico
+      affiliation: "EPFL Institute of Physics, Laboratory for Quantum Magnetism, Lausanne, Switzerland"
+    - family-names: Spitz
+      given-names: Leonie
+      affiliation: "Paul Scherrer Institute, Quantum Criticality and Dynamics Group, Villigen-PSI, Switzerland"
+    - family-names: Vojáček
+      given-names: Libor
+      affiliation: "Paul Scherrer Institute, PSI Center for Scientific Computing, Theory and Data, Switzerland"
+    - family-names: dos Santos
+      given-names: Flaviano José
+      affiliation: "Paul Scherrer Institute, PSI Center for Scientific Computing, Theory and Data, Switzerland"
+    - family-names: Carta
+      given-names: Alberto
+      affiliation: "Paul Scherrer Institute, PSI Center for Scientific Computing, Theory and Data, Switzerland"
+    - family-names: Dalla Piazza
+      given-names: Bastien
+      affiliation: "EPFL Institute of Physics, Switzerland"
+    - family-names: Nikitin
+      given-names: Stanislav E.
+      affiliation: "Paul Scherrer Institute, PSI Center for Neutron and Muon Sciences, Switzerland"
+    - family-names: Krämer
+      given-names: Karl W.
+      affiliation: "Paul Scherrer Institute, PSI Center for Neutron and Muon Sciences, Switzerland"
+    - family-names: Fåk
+      given-names: Björn
+      affiliation: "Institut Laue-Langevin, Grenoble, France"
+    - family-names: Nakajima
+      given-names: Taro
+      affiliation: "Institute for Solid State Physics, University of Tokyo, Japan"
+    - family-names: Ueta
+      given-names: Daichi
+      affiliation: "Institute of Materials Structure Science, High Energy Accelerator Research Organization, Tsukuba, Japan"
+    - family-names: Saito
+      given-names: Hiraku
+      affiliation: "Institute for Solid State Physics, University of Tokyo, Japan"
+    - family-names: Soh
+      given-names: Jian-Rui
+      affiliation: "Quantum Innovation Centre, Agency for Science, Technology and Research (A*STAR), Singapore"
+    - family-names: Marzari
+      given-names: Nicola
+      affiliation: "Paul Scherrer Institute, PSI Center for Scientific Computing, Theory and Data, Switzerland"
+    - family-names: Rønnow
+      given-names: Henrik M.
+      affiliation: "EPFL Institute of Physics, Laboratory for Quantum Magnetism, Lausanne, Switzerland"
+  journal: "arXiv preprint arXiv:2604.13751"
+  year: 2026
+  url: "https://arxiv.org/abs/2604.13751"
 
