@@ -9,7 +9,7 @@ abstract: >-
 authors:
   - family-names: Pisani
     given-names: Federico
-    affiliation: "EPFL Institute of Physics, Laboratory for Quantum Magnetism, Lausanne, Switzerland"
+    affiliation: " Laboratory for Quantum Magnetism, Institute of Physics, EPFL, Lausanne, Switzerland"
     orcid: "https://orcid.org/0009-0002-2837-0102" 
 version: "1.0.0"
 date-released: "2026-11-20"  
